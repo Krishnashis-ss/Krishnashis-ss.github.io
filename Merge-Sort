@@ -48,6 +48,7 @@ void mergeSort(int i, int j, int arr[], int tmp[]) {
 }
 
 
+// User Driven Program
 int main() {
   int  nbr, i, arr[100], tmp[100];
  
